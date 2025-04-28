@@ -1,0 +1,3 @@
+"""
+EpilepTech API package initialization.
+"""
